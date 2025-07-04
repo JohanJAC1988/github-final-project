@@ -1,5 +1,5 @@
 # Github-Final-Project
-Github-final-project- Johan Cañas - Repositorio para proyecto final del curso de Git y GitHub: Calculadora de Interés Simple.
+Github-final-project- Johan Cañas - CONTACTO: johanjacm@gmail.com - WHATSAPP: 3116997175 - Repositorio para proyecto final del curso de Git y GitHub: Calculadora de Interés Simple.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 **Input:**
